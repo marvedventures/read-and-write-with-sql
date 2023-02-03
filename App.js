@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 //prettier-ignore
-import {SafeAreaView,StyleSheet,View,TextInput,Text,TouchableOpacity,} from "react-native";
+import {StyleSheet,View,TextInput,Text,TouchableOpacity,} from "react-native";
 import * as SQLite from 'expo-sqlite';
 //prettier-ignore
 import {IconButton,Provider,Portal,Dialog,Button,} from "react-native-paper";
